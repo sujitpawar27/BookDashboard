@@ -61,10 +61,11 @@ By default, the API will be available at [http://localhost:3000](http://localhos
 
 In a new terminal, run:
 
+```sh
 cd book-dashboard
 npm install
 npm run dev
-
+```
 
 The app will be available at [http://localhost:5173](http://localhost:5173) (or as indicated in your terminal).
 
