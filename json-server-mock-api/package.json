@@ -1,0 +1,14 @@
+{
+  "name": "json-server-mock-api",
+  "version": "1.0.0",
+  "description": "A mock API using Json Server for testing and development purposes.",
+  "main": "index.js",
+  "scripts": {
+    "start": "json-server --watch db.json --routes routes.json"
+  },
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "author": "",
+  "license": "MIT"
+}
